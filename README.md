@@ -1,2 +1,2 @@
 # Rate our office snacks!
-## a React app built with ❤️
+## a React app built with ❤️🍬🍫☕️
